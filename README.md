@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AuguVlan
-- 👀 I’m interested in ML and Data Science, currently studying at Centrale-Supelec.
+- 👀 I’m interested in ML and Data Science, currently studying at Centrale-Supelec and ESSEC.
 - 🌱 I’m currently learning PyTorch.
 - 📫You can reach me at augustin.vlandas@gmail.com.
 
